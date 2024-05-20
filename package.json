@@ -1,0 +1,10 @@
+{
+  "name": "parse8digits",
+  "version": "1.0.0",
+  "description": "Azure Function to extract loan numbers from a string",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
